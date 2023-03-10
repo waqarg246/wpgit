@@ -20,14 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'react_app' );
+define( 'DB_NAME', 'u113319438_react_app' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'u113319438_react_app' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
-
+define( 'DB_PASSWORD', 'U113319438_react_app' );
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
 
